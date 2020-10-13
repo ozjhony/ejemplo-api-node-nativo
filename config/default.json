@@ -1,0 +1,20 @@
+{
+    "db-connections": {
+        "mongodb": {
+            "host": "cluster0.b9mfd.mongodb.net",
+            "user": "api_rest",
+            "password": "Uf6ZgFKqyPGLSqBL",
+            "dbname": "mongoDBs"
+        }
+    },
+    "secretkeys": {
+        "cryptojs": "jsA5t2@tfhD",
+        "jwt": "ABC@2020*"
+    },
+    "roles": {
+        "student": 1,
+        "teacher": 2
+    },
+    "server-port": 3000,
+    "sessionTime": 3600
+}
